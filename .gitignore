@@ -1,0 +1,22 @@
+## documentation
+*.md
+
+## subjects
+*.pdf
+
+## cache files (vim)
+*.swp
+
+## exec
+a.out
+
+## folder (src, includes ...)
+src/
+srcs/
+includes/
+
+## folder or files tests
+test
+tests
+verif
+ft_putchar.c
