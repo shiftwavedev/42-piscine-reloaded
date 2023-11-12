@@ -2,6 +2,10 @@
 
 **This repository contains all the code produced during the Piscine Reloaded.**
 
-## License(s)
+## My progress
 
-For code: [MIT](./LICENSE)
+Validated at 100%.
+
+## License
+
+[MIT](./LICENSE)
